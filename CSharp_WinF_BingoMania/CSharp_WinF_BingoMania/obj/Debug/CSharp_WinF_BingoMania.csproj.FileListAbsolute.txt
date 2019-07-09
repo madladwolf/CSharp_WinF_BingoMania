@@ -1,0 +1,14 @@
+C:\Users\Joao Sousa\source\repos\CSharp_WinF_BingoMania\CSharp_WinF_BingoMania\bin\Debug\CSharp_WinF_BingoMania.exe.config
+C:\Users\Joao Sousa\source\repos\CSharp_WinF_BingoMania\CSharp_WinF_BingoMania\bin\Debug\CSharp_WinF_BingoMania.exe
+C:\Users\Joao Sousa\source\repos\CSharp_WinF_BingoMania\CSharp_WinF_BingoMania\bin\Debug\CSharp_WinF_BingoMania.pdb
+C:\Users\Joao Sousa\source\repos\CSharp_WinF_BingoMania\CSharp_WinF_BingoMania\obj\Debug\CSharp_WinF_BingoMania.csprojAssemblyReference.cache
+C:\Users\Joao Sousa\source\repos\CSharp_WinF_BingoMania\CSharp_WinF_BingoMania\obj\Debug\CSharp_WinF_BingoMania.Gerador.resources
+C:\Users\Joao Sousa\source\repos\CSharp_WinF_BingoMania\CSharp_WinF_BingoMania\obj\Debug\CSharp_WinF_BingoMania.Menu.resources
+C:\Users\Joao Sousa\source\repos\CSharp_WinF_BingoMania\CSharp_WinF_BingoMania\obj\Debug\CSharp_WinF_BingoMania.Player.resources
+C:\Users\Joao Sousa\source\repos\CSharp_WinF_BingoMania\CSharp_WinF_BingoMania\obj\Debug\CSharp_WinF_BingoMania.Properties.Resources.resources
+C:\Users\Joao Sousa\source\repos\CSharp_WinF_BingoMania\CSharp_WinF_BingoMania\obj\Debug\CSharp_WinF_BingoMania.Vitorias.resources
+C:\Users\Joao Sousa\source\repos\CSharp_WinF_BingoMania\CSharp_WinF_BingoMania\obj\Debug\CSharp_WinF_BingoMania.csproj.GenerateResource.cache
+C:\Users\Joao Sousa\source\repos\CSharp_WinF_BingoMania\CSharp_WinF_BingoMania\obj\Debug\CSharp_WinF_BingoMania.csproj.CoreCompileInputs.cache
+C:\Users\Joao Sousa\source\repos\CSharp_WinF_BingoMania\CSharp_WinF_BingoMania\obj\Debug\CSharp_WinF_BingoMania.exe
+C:\Users\Joao Sousa\source\repos\CSharp_WinF_BingoMania\CSharp_WinF_BingoMania\obj\Debug\CSharp_WinF_BingoMania.pdb
+C:\Users\Joao Sousa\source\repos\CSharp_WinF_BingoMania\CSharp_WinF_BingoMania\obj\Debug\CSharp_WinF_BingoMania.Player2.resources
